@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although I will talk about the logical processing order and physical join types, any discussion about optimization and best practices is at a cursory level. My intent here is not to show best practices or optimization methods, but to provide a summarization of the different joins that you will encounter in your daily SQL activities and some of the odd and strange joins that you may encounter.  To show the various joins, I use a small sample dataset that contains types of fruit that you can find in the `Sample Data.md` markdown file.  The sample data has NULL markers but not duplicate data.  Feel free to add, subtract, or modify the data and the provided queries to explore their behavior better.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I welcome any corrections, additions, debates etc. I've tried to show different joins across all the major database platforms (and not just Microsoft SQL Server), and I am sure there are some new and interesting joins that I have not included here (such as graph joins).  Feel free to contact me through this GitHub repository or my WordPress site at https://advancedsqlpuzzles.com.  
+
 
 ---------------------------------------------------------
 
@@ -33,5 +33,5 @@
 
 :smile:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Happy coding!
 
-**https://advancedsqlpuzzles.com**  
+
 

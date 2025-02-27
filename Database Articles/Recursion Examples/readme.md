@@ -1,6 +1,6 @@
 # Recursion Examples
 
-In this directory, you will find my collection of SQL scripts to solve various challenges using recursion.    
+In this directory, you will find  collection of SQL scripts to solve various challenges using recursion.    
 
 👓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am always on the lookout for puzzles that can be solved using recursion. If you have any ideas or scripts you want to add to my collection, please get in touch with me!
 
@@ -30,13 +30,7 @@ Lastly, providing a solution using recursion rather than a loop-based solution i
 
 > "The main benefits I see in recursive queries are the brevity of the code and the ability to traverse graph structures based only on the parent and child IDS.  The main drawback of recursive queries is performance.   They tend to perform less efficiently than alternative methods, even your own loop-based solutions.   With recursive queries, you don't have any control over the worktable; for example, you can't define your own indexes on it, you can't define how to filter the rows from the previous round, and so on.  If you know how to optimize T-SQL code, you can usually get better performance with your own solution." 
 
-## Conclusion
 
-In the future, my aim is to enhance this article by incorporating a variety of examples and providing a deeper explanation of hierarchical structures.
-
-:mailbox:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you find any inaccuracies, misspellings, bugs, dead links, etc., please report an issue!  No detail is too small, and I appreciate all the help.
-
-:smile:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Happy coding!
 
 I hope you find this repository useful and informative, and I welcome any new puzzles or tips and tricks you may have. I also have a WordPress site where you can find my data analytics projects, Python puzzles, and blog.
 

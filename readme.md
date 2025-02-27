@@ -1,27 +1,32 @@
-# Advanced SQL Puzzles
+# 🚀 Advanced SQL
 
-This repository contains a collection of my SQL puzzles and various writings. Feel free to rummage around, I am constantly updating this repository, so check back often.
+This repository contains a collection of my SQL puzzles and various writings. Feel free to explore! I continuously update this repository, so be sure to check back regularly. 📌
 
-:keyboard:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All SQL is written in Microsoft SQL Server T-SQL, unless otherwise noted.
+💻 **SQL Compatibility:** All SQL is written in **Microsoft SQL Server T-SQL**, unless otherwise noted.
 
-:star:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please consider giving a star to this repository if you find its contents informative!
+⭐ **Support the Project:** If you find this repository useful, please consider giving it a **star**!
 
-:question:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions, please feel free to create a GitHub discussion. I am always happy to help out and explain different solutions.
+❓ **Have Questions?** Feel free to start a discussion on GitHub. I am always happy to assist and explain different SQL solutions.
 
-## Getting Started
+---
 
-To get started, clone or download the repository to your local machine. I have included readme files for each directory that describes its contents. If anything is unclear, please contact me, and I would be happy to assist.
+## 🏁 Getting Started
 
-## About Me
+To begin, clone or download this repository to your local machine. Each directory contains a **README file** that explains its contents. If anything is unclear, feel free to reach out—I’m happy to help! 🚀
 
-Greetings. I am Scott Peters, a resident of Austin, TX. I am always eager to collaborate with fellow SQL developers. I've probably written the word `SELECT` two hundred thousand times.  If you would like to connect, please drop me a line.
+---
 
-## Conclusion
+## 🙋‍♂️ About Me
 
-:mailbox:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you find any inaccuracies, misspellings, bugs, dead links, etc., please report an issue! No detail is too small, and I appreciate all the help.
+Hello! My name is **Atharv Chaudhari**, and I am passionate about SQL and database management. With countless hours spent writing SQL queries, I have likely typed `SELECT` hundreds of thousands of times! I enjoy collaborating with fellow SQL developers and exchanging knowledge. If you’d like to connect, feel free to reach out. 🔥
 
-:smile:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Happy coding!
+---
 
-I hope you find this repository useful and informative, and I welcome any new puzzles or tips and tricks you may have. I also have a WordPress site where you can find my data analytics projects, Python puzzles, and blog.    
+## 📌 Conclusion
 
-**https://advancedsqlpuzzles.com**  
+📬 **Found an issue?** If you spot any inaccuracies, typos, bugs, or broken links, please report an issue. No detail is too small, and your feedback is highly appreciated!
+
+😊 **Happy coding!** Keep querying and exploring the world of SQL!
+
+---
+

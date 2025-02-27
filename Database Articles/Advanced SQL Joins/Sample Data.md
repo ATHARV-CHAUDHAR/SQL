@@ -72,4 +72,4 @@ INSERT INTO ##TableB VALUES (4,NULL,NULL);
 15. [Exists](15%20-%20Exists.md)
 16. [Complex Joins](16%20-%20Complex%20Joins.md)
   
-https://advancedsqlpuzzles.com
+

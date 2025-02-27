@@ -23,7 +23,5 @@ The items in this directory can be grouped into two categories:
 
 :smile:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Happy coding!
 
-I hope you find this repository to be useful and informative, and I welcome any new puzzles or tips and tricks you may have. I also have a WordPress site where you can find my data analytics projects, Python puzzles, and blog.
 
-https://advancedsqlpuzzles.com
 

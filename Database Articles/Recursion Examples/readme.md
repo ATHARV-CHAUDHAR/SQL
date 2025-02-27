@@ -26,7 +26,6 @@ In this directory, you will find  collection of SQL scripts to solve various cha
 *  The letters in the word "angel" must be printed in a specific order.  The letter "a" must come before the letter "n", and so on...  If they are not printed in the correct order, you may spell "glean", which is an entirely new word with a different meaning.
 *  Also, sentences have an implicit hierarchy.  The sentence "The cat sat on the mat" must have a specific word order for it to be logical. 
 
-Lastly, providing a solution using recursion rather than a loop-based solution isn't necessarily a best practice.  This is best highlighted in the book "T-SQL Querying" by Ben-Gan, Sarka, Machanic, and Farlee ...
 
 > "The main benefits I see in recursive queries are the brevity of the code and the ability to traverse graph structures based only on the parent and child IDS.  The main drawback of recursive queries is performance.   They tend to perform less efficiently than alternative methods, even your own loop-based solutions.   With recursive queries, you don't have any control over the worktable; for example, you can't define your own indexes on it, you can't define how to filter the rows from the previous round, and so on.  If you know how to optimize T-SQL code, you can usually get better performance with your own solution." 
 

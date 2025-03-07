@@ -14,9 +14,6 @@ The items in this directory can be grouped into two categories:
 *  Advanced SQL Joins
 *  Behavior of Nulls
 
-:point_right: &nbsp;&nbsp;**Azure Demos**
-*  Azure Databricks Hive Demo
-*  Azure Data Factory Metadata Demo
 ----------------
 
 :mailbox:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you find any inaccuracies, misspellings, bugs, dead links, etc... please report an issue!  No detail is too small, and I appreciate all the help.
